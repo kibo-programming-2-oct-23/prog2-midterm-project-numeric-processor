@@ -10,6 +10,8 @@ class NumericProcessor:
     def run_computations(self):
         pass
         # You will write code here, to go through self.computations_list.
+    
+    
 
 
 def load_computations_list_from_file(filename):
@@ -32,3 +34,4 @@ if __name__ == '__main__':
     computations = load_computations_list_from_file('example.json')
     processor = NumericProcessor(computations)
     processor.run_computations()
+
