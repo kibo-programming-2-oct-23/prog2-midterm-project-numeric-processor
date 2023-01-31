@@ -9,7 +9,7 @@ class NumericProcessor:
 
     def run_computations(self):
         pass
-        # You will write code here, to go through self.computations_list.
+        # You will write code here, to go through the self.computations_list.
     
     
 

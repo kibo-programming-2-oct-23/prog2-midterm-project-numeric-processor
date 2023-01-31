@@ -180,7 +180,7 @@ You can now change the test code at the bottom of the file. You can create an in
 | 5      | Display                            | Program supports more than one display in an input file                                         |
 | 5      | Simple api call                    | Program can run a simple api call                                                               |
 | 5      | More-complicated api call          | Program can run a more-complicated api call                                                     |
-| 5      | `NumericProcessor_CountOperations` | Program can count how many times operations were run                                            |
+| 5      | `OperationCounterNumericProcessor` | Program can count how many times operations were run                                            |
 
 ### Additional Challenges (Optional)
 
